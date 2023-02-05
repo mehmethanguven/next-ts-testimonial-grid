@@ -10,6 +10,15 @@ Mehmethan Guven
 <br/>
 <a href='mailto:mehmethanguven@gmail.com<'>mehmethanguven@gmail.com</a>
 
+## Live on Vercel
+
+<a href="next-ts-testimonial-grid-mehmethanguven.vercel.app/" target="_blank">Live Preview</a>
+
+## Some Screenshots
+
+<img src="public/images/demo1.png" alt="demo" style="height: 600px; width:800px; margin: 10px;"/>
+<img src="public/images/demo2.png" alt="demo" style="height: 600px; width:800px; margin: 10px;"/>
+
 ## Support
 
 If you like you can give a star.
