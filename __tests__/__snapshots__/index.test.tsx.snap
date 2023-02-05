@@ -1,0 +1,299 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home should to match snapshot 1`] = `
+<DocumentFragment>
+  <main
+    class="bg-gray-200"
+  >
+    <div
+      class="continer mx-auto max-w-7xl p-2 md:p-10"
+    >
+      <div
+        class="grid grid-cols-1 gap-6 text-white md:grid-cols-4 md:grid-rows-2"
+      >
+        <div
+          class="relative rounded-xl p-10 md:col-span-2 bg-purple-700 "
+        >
+          <img
+            alt=""
+            class="w-auto absolute top-3 right-10 scale-125 md:top-7 md:right-24 md:scale-150"
+            data-nimg="1"
+            decoding="async"
+            height="0"
+            loading="lazy"
+            src="/images/bg-pattern-quotation.svg"
+            style="color: transparent;"
+            width="0"
+          />
+          <div
+            class="z-10 flex space-x-4"
+          >
+            <img
+              alt=""
+              class="w-auto h-10 w-10 rounded-full ring-2 ring-purple-300"
+              data-nimg="1"
+              decoding="async"
+              height="0"
+              loading="lazy"
+              sizes="100vh"
+              src="/_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=3840&q=75"
+              srcset="/_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=16&q=75 16w, /_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=32&q=75 32w, /_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=48&q=75 48w, /_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=64&q=75 64w, /_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=96&q=75 96w, /_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=128&q=75 128w, /_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=256&q=75 256w, /_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=384&q=75 384w, /_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=640&q=75 640w, /_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=750&q=75 750w, /_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=828&q=75 828w, /_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimages%2Fimage-daniel.jpg&w=3840&q=75 3840w"
+              style="color: transparent;"
+              width="0"
+            />
+            <div
+              class="text-sm"
+            >
+              <h4
+                class="opacity-90"
+              >
+                Daniel Clifford
+              </h4>
+              <p
+                class="opacity-50"
+              >
+                Verified Graduate
+              </p>
+            </div>
+          </div>
+          <p
+            class="relative z-10 mt-6 text-xl"
+          >
+            I received a job offer mid-course, and the subjects I learned were current, if not more so, in the company I joined. I honestly feel I got every penny's worth.
+          </p>
+          <p
+            class="mt-6 opacity-50 line-clamp-5"
+          >
+            "I was an EMT for many years before I joined the bootcamp. I've been looking to make a transition and have heard some people who had an amazing experience here. I signed up for the free intro course and found it incredibly fun! I enrolled shortly hereafter. The next 12 weeks was the best - and most grueling - time of my life. Since completing the course, I've successfully switched careers, working as a Software Engineer at a VR startup. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione vero repudiandae, quasi atque officiis eum consectetur odio amet dolorem deleniti repellat expedita aut sunt laudantium cum itaque nam voluptatum quod! Quo totam sequi omnis deserunt? Sit nam molestiae excepturi, perspiciatis labore deleniti eum, eligendi quisquam quod sed nobis exercitationem tempora!"
+          </p>
+        </div>
+        <div
+          class="relative rounded-xl p-10 bg-gray-600"
+        >
+          <div
+            class="z-10 flex space-x-4"
+          >
+            <img
+              alt=""
+              class="w-auto h-10 w-10 rounded-full ring-2 ring-purple-300"
+              data-nimg="1"
+              decoding="async"
+              height="0"
+              loading="lazy"
+              sizes="100vh"
+              src="/_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=3840&q=75"
+              srcset="/_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=16&q=75 16w, /_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=32&q=75 32w, /_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=48&q=75 48w, /_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=64&q=75 64w, /_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=96&q=75 96w, /_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=128&q=75 128w, /_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=256&q=75 256w, /_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=384&q=75 384w, /_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=640&q=75 640w, /_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=750&q=75 750w, /_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=828&q=75 828w, /_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimages%2Fimage-jonathan.jpg&w=3840&q=75 3840w"
+              style="color: transparent;"
+              width="0"
+            />
+            <div
+              class="text-sm"
+            >
+              <h4
+                class="opacity-90"
+              >
+                Jonathan Walters
+              </h4>
+              <p
+                class="opacity-50"
+              >
+                Verified Graduate
+              </p>
+            </div>
+          </div>
+          <p
+            class="relative z-10 mt-6 text-xl"
+          >
+            The team was very supportive and kept me motivated
+          </p>
+          <p
+            class="mt-6 opacity-50 line-clamp-5"
+          >
+            "I was an EMT for many years before I joined the bootcamp. I've been looking to make a transition and have heard some people who had an amazing experience here. I signed up for the free intro course and found it incredibly fun! I enrolled shortly hereafter. The next 12 weeks was the best - and most grueling - time of my life. "
+          </p>
+        </div>
+        <div
+          class="relative rounded-xl p-10 hidden bg-white text-gray-900 md:block md:row-span-2"
+        >
+          <div
+            class="z-10 flex space-x-4"
+          >
+            <img
+              alt=""
+              class="w-auto h-10 w-10 rounded-full ring-2 ring-purple-300"
+              data-nimg="1"
+              decoding="async"
+              height="0"
+              loading="lazy"
+              sizes="100vh"
+              src="/_next/image?url=%2Fimages%2Fimage-kira.jpg&w=3840&q=75"
+              srcset="/_next/image?url=%2Fimages%2Fimage-kira.jpg&w=16&q=75 16w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=32&q=75 32w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=48&q=75 48w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=64&q=75 64w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=96&q=75 96w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=128&q=75 128w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=256&q=75 256w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=384&q=75 384w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=640&q=75 640w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=750&q=75 750w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=828&q=75 828w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=3840&q=75 3840w"
+              style="color: transparent;"
+              width="0"
+            />
+            <div
+              class="text-sm"
+            >
+              <h4
+                class="opacity-90"
+              >
+                Kira Whittle
+              </h4>
+              <p
+                class="opacity-50"
+              >
+                Verified Graduate
+              </p>
+            </div>
+          </div>
+          <p
+            class="relative z-10 mt-6 text-xl"
+          >
+            Such a life-changing experience. Highly recommended!
+          </p>
+          <p
+            class="mt-6 opacity-50"
+          >
+            "I was an EMT for many years before I joined the bootcamp. I've been looking to make a transition and have heard some people who had an amazing experience here. I signed up for the free intro course and found it incredibly fun! I enrolled shortly hereafter. The next 12 weeks was the best - and most grueling - time of my life. Since completing the course, I've successfully switched careers, working as a Software Engineer at a VR startup. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione vero repudiandae, quasi atque officiis eum consectetur odio amet dolorem deleniti repellat expedita aut sunt laudantium cum itaque nam voluptatum quod! Quo totam sequi omnis deserunt? Sit nam molestiae excepturi, perspiciatis labore deleniti eum, eligendi quisquam quod sed nobis exercitationem tempora!"
+          </p>
+        </div>
+        <div
+          class="relative rounded-xl p-10 bg-white text-gray-900 "
+        >
+          <div
+            class="z-10 flex space-x-4"
+          >
+            <img
+              alt=""
+              class="w-auto h-10 w-10 rounded-full ring-2 ring-purple-300"
+              data-nimg="1"
+              decoding="async"
+              height="0"
+              loading="lazy"
+              sizes="100vh"
+              src="/_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=3840&q=75"
+              srcset="/_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=16&q=75 16w, /_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=32&q=75 32w, /_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=48&q=75 48w, /_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=64&q=75 64w, /_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=96&q=75 96w, /_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=128&q=75 128w, /_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=256&q=75 256w, /_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=384&q=75 384w, /_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=640&q=75 640w, /_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=750&q=75 750w, /_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=828&q=75 828w, /_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimages%2Fimage-jeanette.jpg&w=3840&q=75 3840w"
+              style="color: transparent;"
+              width="0"
+            />
+            <div
+              class="text-sm"
+            >
+              <h4
+                class="opacity-90"
+              >
+                Jeannette Harmon
+              </h4>
+              <p
+                class="opacity-50"
+              >
+                Verified Graduate
+              </p>
+            </div>
+          </div>
+          <p
+            class="relative z-10 mt-6 text-xl"
+          >
+             An overall wonderful and rewarding experience
+          </p>
+          <p
+            class="mt-6 opacity-50 line-clamp-5"
+          >
+            "Thank you for the wonderful experience! I now have a job I really enjoy, and make a good living while doing something I love"
+          </p>
+        </div>
+        <div
+          class="relative rounded-xl p-10 md:col-span-2 bg-gray-900"
+        >
+          <div
+            class="z-10 flex space-x-4"
+          >
+            <img
+              alt=""
+              class="w-auto h-10 w-10 rounded-full ring-2 ring-purple-300"
+              data-nimg="1"
+              decoding="async"
+              height="0"
+              loading="lazy"
+              sizes="100vh"
+              src="/_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=3840&q=75"
+              srcset="/_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=16&q=75 16w, /_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=32&q=75 32w, /_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=48&q=75 48w, /_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=64&q=75 64w, /_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=96&q=75 96w, /_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=128&q=75 128w, /_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=256&q=75 256w, /_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=384&q=75 384w, /_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=640&q=75 640w, /_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=750&q=75 750w, /_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=828&q=75 828w, /_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimages%2Fimage-patrick.jpg&w=3840&q=75 3840w"
+              style="color: transparent;"
+              width="0"
+            />
+            <div
+              class="text-sm"
+            >
+              <h4
+                class="opacity-90"
+              >
+                Patrick Abrams
+              </h4>
+              <p
+                class="opacity-50"
+              >
+                Verified Graduate
+              </p>
+            </div>
+          </div>
+          <p
+            class="relative z-10 mt-6 text-xl"
+          >
+            Awesome teaching support from TAs who did the bootcamp themselves. Getting guidance from them and learning from their experiences waseasy.
+          </p>
+          <p
+            class="mt-6 opacity-50 line-clamp-5"
+          >
+            "I was an EMT for many years before I joined the bootcamp. I've been looking to make a transition and have heard some people who had an amazing experience here. I signed up for the free intro course and found it incredibly fun! I enrolled shortly hereafter. The next 12 weeks was the best - and most grueling - time of my life. Since completing the course, I've successfully switched careers, working as a Software Engineer at a VR startup. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione vero repudiandae, quasi atque officiis eum consectetur odio amet dolorem deleniti repellat expedita aut sunt laudantium cum itaque nam voluptatum quod! Quo totam sequi omnis deserunt? Sit nam molestiae excepturi, perspiciatis labore deleniti eum, eligendi quisquam quod sed nobis exercitationem tempora!"
+          </p>
+        </div>
+        <div
+          class="relative rounded-xl p-10 text-gray-900 md:hidden"
+        >
+          <div
+            class="z-10 flex space-x-4"
+          >
+            <img
+              alt=""
+              class="w-auto h-10 w-10 rounded-full ring-2 ring-purple-300"
+              data-nimg="1"
+              decoding="async"
+              height="0"
+              loading="lazy"
+              sizes="100vh"
+              src="/_next/image?url=%2Fimages%2Fimage-kira.jpg&w=3840&q=75"
+              srcset="/_next/image?url=%2Fimages%2Fimage-kira.jpg&w=16&q=75 16w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=32&q=75 32w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=48&q=75 48w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=64&q=75 64w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=96&q=75 96w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=128&q=75 128w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=256&q=75 256w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=384&q=75 384w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=640&q=75 640w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=750&q=75 750w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=828&q=75 828w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimages%2Fimage-kira.jpg&w=3840&q=75 3840w"
+              style="color: transparent;"
+              width="0"
+            />
+            <div
+              class="text-sm"
+            >
+              <h4
+                class="opacity-90"
+              >
+                Kira Whittle
+              </h4>
+              <p
+                class="opacity-50"
+              >
+                Verified Graduate
+              </p>
+            </div>
+          </div>
+          <p
+            class="relative z-10 mt-6 text-xl"
+          >
+            Such a life-changing experience. Highly recommended!
+          </p>
+          <p
+            class="mt-6 opacity-50 line-clamp-5"
+          >
+            "I was an EMT for many years before I joined the bootcamp. I've been looking to make a transition and have heard some people who had an amazing experience here. I signed up for the free intro course and found it incredibly fun! I enrolled shortly hereafter. The next 12 weeks was the best - and most grueling - time of my life. Since completing the course, I've successfully switched careers, working as a Software Engineer at a VR startup. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione vero repudiandae, quasi atque officiis eum consectetur odio amet dolorem deleniti repellat expedita aut sunt laudantium cum itaque nam voluptatum quod! Quo totam sequi omnis deserunt? Sit nam molestiae excepturi, perspiciatis labore deleniti eum, eligendi quisquam quod sed nobis exercitationem tempora!"
+          </p>
+        </div>
+      </div>
+    </div>
+  </main>
+</DocumentFragment>
+`;
